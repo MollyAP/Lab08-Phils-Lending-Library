@@ -8,7 +8,7 @@ Phil's Lending Library is a console application that simulates a lending library
 
 ## Getting Started
 To build and run this application on your own machine, follow these steps:
-1. Clone this repository to your local machine using the command: `git clone https:github.com/MollyAP/Lab-08-Library.git`
+1. Clone this repository to your local machine using the command: `git clone https://github.com/MollyAP/Lab08-Phils-Lending-Library.git`
 2. Navigate to the `Lab-08-Library` folder.
 3. Open the solution file `Lab-08-Library.sln` in Visual Studio or your preferred C# development environment.
 4. Build the solution to resolve any dependencies and compile the code.
